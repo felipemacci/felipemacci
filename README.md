@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Felipe Daniel (they call me Felipe Macci or just Macci), and I'm studying web development. I am a good leader and I like to teach my knowledge to people. I've been studying this area for two years, which has become my goal and I'm passionate about what I do ❤</p>
+<p align="left">I'm Felipe Daniel (they call me Felipe Macci or just Macci), and I'm studying web development. I am a good leader and I like to teach my knowledge to people. I've been studying this area for two years, which has become my goal and I'm passionate about what I do 🤍</p>
 
 ###
 
