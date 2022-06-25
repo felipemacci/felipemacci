@@ -1,16 +1,40 @@
-### Hi there 👋
+<h1 align="left">Hi there, i'm Felipe Macci</h1>
 
-<!--
-**felipemacci/felipemacci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Full-Stack Developer.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/felipemacci/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=c06c84&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://twitter.com/felipemacci" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=c06c84&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCBAEawf4bzL9buG5iRGcb1Q" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=c06c84&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="mailto:felipemacci@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=c06c84&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<p align="left">I'm Felipe Daniel (they call me Felipe Macci or just Macci), and I'm studying web development. I am a good leader and I like to teach my knowledge to people.</p>
+
+###
+
+<p align="left">I've been studying this area for two years, which has become my goal and I'm passionate about what I do ♥</p>
+
+###
+
+<p align="left">"Be the biggest enemy of procrastination and laziness, because they are the ones that will delay your performance. Wake up early, work happy".</p>
+
+###
+
+<h2 align="left">Tech Stack</h2>
+
+###
