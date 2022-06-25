@@ -30,16 +30,3 @@
 <p align="left">"Be the biggest enemy of procrastination and laziness, because they are the ones that will delay your performance. Wake up early, work happy".</p>
 
 ###
-
-<h2 align="left">Tech Stack</h2>
-
-###
-
-![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![NodeJS](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![ReactJS](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-05122A?style=flat&logo=tailwind-css)&nbsp;
