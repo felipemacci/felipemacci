@@ -31,4 +31,4 @@
 
 ###
 
-<a href="">More about me</a>
+<a href="">More About Me</a>
