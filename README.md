@@ -32,6 +32,6 @@
 ###
 
 <p align="center">
-  <a href="">a</a>
-  <a href="">b</a>
+  <a style="margin: 10px" href="">a</a>
+  <a style="margin: 10px" href="">b</a>
 </p>
