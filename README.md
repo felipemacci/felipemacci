@@ -28,3 +28,7 @@
 ###
 
 <p align="left">"Be the biggest enemy of procrastination and laziness, because they are the ones that will delay your performance. Wake up early, work happy".</p>
+
+###
+
+<a href="/">View My Certificates</a>
