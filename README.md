@@ -31,5 +31,7 @@
 
 ###
 
-<a align="left" href="/">View My Certificates</a>
-<a align="right" href="/">View My Technologies</a>
+<div style="display: flex; justify-content: space-between;">
+  <a align="left" href="/">View My Certificates</a>
+  <a align="right" href="/">View My Technologies</a>
+</div>
