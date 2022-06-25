@@ -31,4 +31,4 @@
 
 ###
 
-<a href="">View certificates</a>
+<a href="">More about me</a>
