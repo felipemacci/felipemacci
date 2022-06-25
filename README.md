@@ -31,9 +31,7 @@
 
 ###
 
-<p width="50%">
-  <a href="">View my certificates</a>
-</p>
-<p width="50%">
-  <a href="">View my certificates</a>
+<p align="center">
+  <a href="">a</a>
+  <a href="">b</a>
 </p>
