@@ -30,8 +30,3 @@
 <p align="left">"Be the biggest enemy of procrastination and laziness, because they are the ones that will delay your performance. Wake up early, work happy".</p>
 
 ###
-
-<p align="center">
-  <a style="display: inline-block; margin: 10px" href="">a</a>
-  <a style="display: inline-block; margin: 10px" href="">b</a>
-</p>
