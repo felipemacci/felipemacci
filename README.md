@@ -31,4 +31,4 @@
 
 ###
 
-<a href="/" align="right">a</a>
+<a href="">View certificates</a>
