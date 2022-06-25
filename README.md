@@ -31,7 +31,9 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between;">
-  <a align="left" href="/">View My Certificates</a>
-  <a align="right" href="/">View My Technologies</a>
-</div>
+<p width="50%">
+  <a href="">View my certificates</a>
+</p>
+<p width="50%">
+  <a href="">View my certificates</a>
+</p>
