@@ -35,5 +35,5 @@
 
 ### Technologies:
 
-<img src="https://logodownload.org/html-5-logo/html5-logo-8/" alt="html logo" height="25" />
-<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" alt="html logo" height="25" />
+<a href="/"><img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" alt="html logo" height="25" /></a>
+<a href="/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="html logo" height="25" /></a>
