@@ -47,4 +47,4 @@
 
 ### Interest:
 
-<a href="/"><img src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="redux logo" height="28" /></a>
+<a href="/"><img src="https://bendyworks.com/assets/images/blog/2020-05-04-ionic-react-and-redux-74ed1080.png" alt="redux logo" height="28" /></a>
