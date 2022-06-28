@@ -39,5 +39,10 @@
 <a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css logo" height="25" /></a>
 <a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="js logo" height="25" /></a>
 <a href="/"><img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="ts logo" height="25" /></a>
+<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PostCSS_Logo.svg/1200px-PostCSS_Logo.svg.png" alt="postcss logo" height="25" /></a>
+<a href="/"><img src="https://aatrox-demo.vercel.app/assets/images/logos/tailwind.svg" alt="tailwindcss logo" height="25" /></a>
+<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactjs logo" height="25" /></a>
+<a href="/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" height="25" /></a>
+<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql logo" height="25" /></a>
 
 
