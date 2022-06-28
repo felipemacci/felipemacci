@@ -36,4 +36,4 @@
 ### Technologies:
 
 <a href="/"><img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" alt="html logo" height="25" /></a>
-<a href="/"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="html logo" height="25" /></a>
+<a href="/"><img src="https://doctrinafatequeira.files.wordpress.com/2014/05/css3.png" alt="html logo" height="25" /></a>
