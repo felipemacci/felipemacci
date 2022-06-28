@@ -48,7 +48,3 @@
 ### Interest:
 
 <a href="/"><img src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="redux logo" height="28" /></a>
-<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="nextjs logo" height="28" /></a>
-<a href="/"><img src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="redux logo" height="28" /></a>
-<a href="/"><img src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="redux logo" height="28" /></a>
-<a href="/"><img src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="redux logo" height="28" /></a>
