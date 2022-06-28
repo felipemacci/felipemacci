@@ -35,6 +35,6 @@
 
 ### Technologies:
 
-<a href="/"><img src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" alt="html logo" height="25" /></a>
-<a href="/"><img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" alt="css logo" height="25" /></a>
+<a href="/"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" alt="html logo" height="25" /></a>
+<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css logo" height="25" /></a>
 <a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="js logo" height="25" /></a>
