@@ -48,3 +48,7 @@
 ### Interest:
 
 <a href="/"><img src="https://bendyworks.com/assets/images/blog/2020-05-04-ionic-react-and-redux-74ed1080.png" alt="redux logo" height="28" /></a>
+<a href="/"><img src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="nextjs logo" height="28" /></a>
+<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql logo" height="28" /></a>
+<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python logo" height="28" /></a>
+<a href="/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django logo" height="28" /></a>
