@@ -33,7 +33,7 @@
 
 <hr />
 
-### Technologies:
+### Experience:
 
 <a href="/"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" alt="html logo" height="28" /></a>⠀
 <a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css logo" height="28" /></a>⠀
@@ -45,4 +45,10 @@
 <a href="/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" height="28" /></a>⠀
 <a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql logo" height="28" /></a>
 
+### Interest:
 
+<a href="/"><img src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="redux logo" height="28" /></a>
+<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" alt="nextjs logo" height="28" /></a>
+<a href="/"><img src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="redux logo" height="28" /></a>
+<a href="/"><img src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="redux logo" height="28" /></a>
+<a href="/"><img src="http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png" alt="redux logo" height="28" /></a>
