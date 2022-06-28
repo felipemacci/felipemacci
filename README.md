@@ -36,3 +36,14 @@
 ### Technologies:
 
 <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" alt="html logo" height="25" />
+<img src="https://img1.gratispng.com/20180816/ql/kisspng-cascading-style-sheets-logo-clip-art-css3-html-5b7617f6479ca3.8709748315344660382933.jpg" alt="css logo" height="25" />
+<img src="" alt="logo" height="25" />
+<img src="" alt="logo" height="25" />
+<img src="" alt="logo" height="25" />
+<img src="" alt="logo" height="25" />
+<img src="" alt="logo" height="25" />
+<img src="" alt="logo" height="25" />
+<img src="" alt="logo" height="25" />
+<img src="" alt="logo" height="25" />
+<img src="" alt="logo" height="25" />
+<img src="" alt="logo" height="25" />
