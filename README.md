@@ -35,4 +35,5 @@
 
 ### Technologies:
 
-<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" alt="html logo" height="25" /><img src="https://logospng.org/download/css-3/logo-css-3-2048.png" alt="css logo" height="25" />
+<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" alt="html logo" height="25" />
+<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" alt="html logo" height="25" />
