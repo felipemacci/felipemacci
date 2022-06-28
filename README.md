@@ -35,20 +35,32 @@
 
 ### Experience:
 
-<a href="/"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" alt="html logo" height="28" /></a>⠀
-<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css logo" height="28" /></a>⠀
-<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="js logo" height="28" /></a>⠀
-<a href="/"><img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="ts logo" height="28" /></a>⠀
-<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PostCSS_Logo.svg/1200px-PostCSS_Logo.svg.png" alt="postcss logo" height="28" /></a>⠀
-<a href="/"><img src="https://aatrox-demo.vercel.app/assets/images/logos/tailwind.svg" alt="tailwindcss logo" height="28" /></a>⠀
-<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactjs logo" height="28" /></a>⠀
-<a href="/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" height="28" /></a>⠀
+<a href="/"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" alt="html logo" height="28" /></a>
+⠀
+<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css logo" height="28" /></a>
+⠀
+<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="js logo" height="28" /></a>
+⠀
+<a href="/"><img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="ts logo" height="28" /></a>
+⠀
+<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/PostCSS_Logo.svg/1200px-PostCSS_Logo.svg.png" alt="postcss logo" height="28" /></a>
+⠀
+<a href="/"><img src="https://aatrox-demo.vercel.app/assets/images/logos/tailwind.svg" alt="tailwindcss logo" height="28" /></a>
+⠀
+<a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactjs logo" height="28" /></a>
+⠀
+<a href="/"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" height="28" /></a>
+⠀
 <a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql logo" height="28" /></a>
 
 ### Interest:
 
 <a href="/"><img src="https://bendyworks.com/assets/images/blog/2020-05-04-ionic-react-and-redux-74ed1080.png" alt="redux logo" height="28" /></a>
-<a href="/"><img src="https://devmentor.live/images/javascript-mentorship/nextjs.svg" alt="nextjs logo" height="28" /></a>
+⠀
+<a href="/"><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs logo" height="28" /></a>
+⠀
 <a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql logo" height="28" /></a>
+⠀
 <a href="/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python logo" height="28" /></a>
+⠀
 <a href="/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django logo" height="28" /></a>
