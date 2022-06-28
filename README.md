@@ -35,4 +35,4 @@
 
 ### Technologies:
 
-<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png" alt="html logo" height="25" />
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
