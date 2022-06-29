@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Felipe Daniel (they call me Felipe Macci or just Macci), I'm brazilian, 16 years old, I study web development and I like to share my knowledge with people. If you want to know more about me <a href="">click here</a>.</p>
+<p align="left">I'm Felipe Daniel (they call me Felipe Macci or just Macci), 16 years old. I study web development and I like to share my knowledge with people. If you want to know more about me or see my certificates <a href="">click here</a>.</p>
 
 ###
 
