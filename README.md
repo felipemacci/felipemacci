@@ -31,8 +31,6 @@
 
 ### Experience:
 
-###
-
 <span title="HTML"><img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-10.png" alt="html logo" height="28" /></span>
 ⠀
 <span title="CSS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css logo" height="28" /></span>
