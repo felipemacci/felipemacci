@@ -48,19 +48,3 @@
 <span title="NodeJS"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" height="28" /></span>
 ⠀
 <span title="PostgreSQL"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql logo" height="28" /></span>
-
-### Interest:
-
-<span title="React Native"><img src="https://media.slid.es/uploads/118447/images/2991881/reactpurple.png" alt="react native logo" height="28" /></span>
-⠀
-<span title="Redux"><img src="https://bendyworks.com/assets/images/blog/2020-05-04-ionic-react-and-redux-74ed1080.png" alt="redux logo" height="28" /></span>
-⠀
-<span title="NextJS"><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" alt="nextjs logo" height="28" /></span>
-⠀
-<span title="GraphQL"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" alt="graphql logo" height="28" /></span>
-⠀
-<span title="Python"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python logo" height="28" /></span>
-⠀
-<span title="Django"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django logo" height="28" /></span>
-⠀
-<span title="Jest"><img src="https://symbols.getvecta.com/stencil_25/40_jest.5fde12ec22.png" alt="jest logo" height="28" /></span>
