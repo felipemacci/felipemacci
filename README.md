@@ -24,17 +24,3 @@
 ###
 
 <p align="left">I'm Felipe Daniel (they call me Felipe Macci or just Macci), 16 years old. I study web development and I like to share my knowledge with people. If you want to know more about me or see my certificates <a href="">click here</a>.</p>
-
-###
-
-<hr />
-
-###
-⠀
-<span title="JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="js logo" height="28" /></span>
-⠀
-<span title="ReactJS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactjs logo" height="28" /></span>
-⠀
-<span title="NodeJS"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" height="28" /></span>
-⠀
-<span title="PostgreSQL"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql logo" height="28" /></span>
