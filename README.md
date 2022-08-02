@@ -33,8 +33,6 @@
 ⠀
 <span title="JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="js logo" height="28" /></span>
 ⠀
-<span title="TypeScript"><img src="https://www.svgrepo.com/show/303600/typescript-logo.svg" alt="ts logo" height="28" /></span>
-⠀
 <span title="ReactJS"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="reactjs logo" height="28" /></span>
 ⠀
 <span title="NodeJS"><img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="nodejs logo" height="28" /></span>
