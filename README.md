@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, i'm Felipe Macci</h1>
+<h1 align="left">Felipe Macci</h1>
 
 ###
 
@@ -23,4 +23,6 @@
 
 ###
 
-<p align="left">I'm Felipe Daniel (they call me Felipe Macci or just Macci), 16 years old. I study web development and I like to share my knowledge with people. If you want to know more about me or see my certificates <a href="">click here</a>.</p>
+<p align="left">I'm Felipe Daniel (they call me Felipe Macci or just Macci), 16 years old. I study web development and I like to share my knowledge with people.</p>
+<p align="left">Among the technologies that I work and study are: TypeScript, ReactJS, React Native and NodeJS</p>
+<p>If you want to know more about me or see my certificates <a href="#">click here</a>.</p>
